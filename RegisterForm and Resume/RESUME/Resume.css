@@ -1,0 +1,53 @@
+body{
+    background-color:aliceblue;
+}
+.project{
+    border-radius: 50%;
+    }
+    .header{
+        background-color:black;
+        margin-top: 0px;
+
+    }
+.full {
+	
+       
+        margin: 0px;
+        display: grid;
+        grid-template-columns: 1.3fr 4fr;
+    }    
+
+    .right {
+        position: initial;
+        background-color: rgb(228, 240, 251);
+        padding: 100px;
+    
+    }
+    .left {
+        
+        background-color: rgb(231, 210, 210);
+        padding: 50px;
+    
+    }    
+.image{
+    margin-top: 1px;
+    position: initial;
+}
+
+
+
+.objective{
+    margin-top: 15px;
+    margin-left: 20px;
+}
+
+.education{
+    
+    margin-left: 20px;
+}
+
+.footer{
+   
+    padding: 1%;
+    background-color:rgb(141, 143, 145);
+}
